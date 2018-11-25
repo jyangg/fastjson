@@ -78,7 +78,7 @@ import com.alibaba.fastjson.util.TypeUtils;
  * 
  * @author wenshao[szujobs@hotmail.com]
  */
-public abstract class JSON implements JSONStreamAware, JSONAware {
+public abstract class JSONTest implements JSONStreamAware, JSONAware {
     public static TimeZone         defaultTimeZone      = TimeZone.getDefault();
     public static Locale           defaultLocale        = Locale.getDefault();
 
